@@ -1,6 +1,4 @@
 # Frubis-Lead-Segmentation-Clustering---R
-Mini proyecto de segmentación de leads B2B usando K-Means en R.
-# Frubis Lead Segmentation (Clustering) - R
 
 Mini proyecto de segmentación de leads B2B usando K-Means en R.
 La segmentación se basa en señales de interés por servicios típicos de una agencia de performance (CRO, Email/SMS, Media Activation, etc.)
